@@ -14,7 +14,7 @@ How to use this app
 Anyone who wishes to conduct a free meeting (with or without video) has to just click on this link : <br/>
 <div align="center">
 <pre>
-<a href="https://thawing-headland-23372.herokuapp.com/">https://thawing-headland-23372.herokuapp.com/</a>
+<a href="https://thawing-headland-23372.herokuapp.com/">https://akz-zoom.herokuapp.com/</a>
 </pre>
 </div>
 
