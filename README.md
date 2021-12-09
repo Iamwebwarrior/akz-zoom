@@ -17,7 +17,7 @@ Anyone who wishes to conduct a free meeting (with or without video) has to just 
 
 <div align="center">
 <pre>
-<a href="https://akz-zoom-clone.herokuapp.com/">https://akz-zoom.herokuapp.com/</a>
+<a href="https://akz-zoom.herokuapp.com/">https://akz-zoom.herokuapp.com/</a>
 </pre>
 </div>
 
